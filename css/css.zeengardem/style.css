@@ -1,0 +1,10 @@
+/* Color Theme Swatches in Hex
+.background { color: #09dbb8; }
+.destaque { color: #F2C12E; }
+.font{ color: #024959; }
+.variacao { color: #F2AE30; }*/
+
+
+html
+{background-color: #90e9da ;
+    color: #024959;}
